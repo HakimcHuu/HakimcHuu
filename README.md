@@ -130,6 +130,8 @@
   <a href="https://my-portofolio-wheat-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
+📞 **Phone (Ethiopia):** +251933718035
+
 ---
 
 > *"Code with creativity, design with empathy, and always build with purpose."*
