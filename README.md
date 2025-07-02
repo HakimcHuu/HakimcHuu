@@ -246,7 +246,6 @@ If you like my work, please ⭐️ the repo and connect with me on [LinkedIn](ht
 
 ---
 
-<!-- EDUCATION SECTION -->
 ## 🎓 Education & Certifications
 
 <ul>
@@ -261,7 +260,6 @@ If you like my work, please ⭐️ the repo and connect with me on [LinkedIn](ht
 
 ---
 
-<!-- LANGUAGES SECTION -->
 ## 🌍 Languages
 
 <ul>
@@ -272,7 +270,6 @@ If you like my work, please ⭐️ the repo and connect with me on [LinkedIn](ht
 
 ---
 
-<!-- CONNECT SECTION -->
 ## 📬 Let's Connect
 
 <p align="left">
