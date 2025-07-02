@@ -1,9 +1,11 @@
 <!-- VISITOR BADGE -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HakimcHuu&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 <!-- INTRODUCTION / SUMMARY -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulhakim+Sefa+Umer;Full-Stack+Web+%26+App+Developer;Digital+Marketer+%7C+Tech+Enthusiast"/>
 </p>
@@ -23,67 +25,41 @@
 ---
 
 <!-- TABLE OF CONTENTS -->
+
 ## 📚 Table of Contents
+
 - [About Me](#-about-me)
 - [Tech Stack](#-tech-stack)
 - [GitHub Stats](#github-stats-section)
 - [Featured Projects](#-featured-projects)
-- [Education & Certifications](#-education--certifications)
+- [Education &amp; Certifications](#-education--certifications)
 - [Languages](#-languages)
-- [Let's Connect](#-lets-connect)
+- [Let&#39;s Connect](#-lets-connect)
 - [Pinned Repositories](#-pinned-repositories)
-- [Contributions & Support](#-contributions--support)
+- [Contributions &amp; Support](#-contributions--support)
 
 ---
 
 <!-- ABOUT & SKILLS SECTION -->
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🧠 About Me
-
-- 🚀 Creative, results-driven developer passionate about impactful tech
-- 💡 Always learning and building
-- 🎯 Problem solver & team leader
-- 🌍 Based in Addis Ababa, Ethiopia
-
-</td>
-<td valign="top" width="50%">
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
-
 ---
 
 <!-- GITHUB STATS SECTION -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HakimcHuu&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakimcHuu&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=HakimcHuu&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakimcHuu&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
 <!-- PROJECTS SECTION -->
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -125,7 +101,7 @@
       <b>✨ Key Features:</b>
       <ul align="left">
         <li>🛍️ <b>Product listing & search</b></li>
-        <li>🛒 <b>Shopping cart & checkout</b></li>
+        <li>�� <b>Shopping cart & checkout</b></li>
         <li>🔐 <b>User authentication</b> (Firebase)</li>
         <li>📦 <b>Order history</b></li>
       </ul>
@@ -273,13 +249,13 @@ If you like my work, please ⭐️ the repo and connect with me on [LinkedIn](ht
 ## 📬 Let's Connect
 
 <p align="left">
-  <a href="mailto:abdulhakimsefa@gmail.com">📧 <b>Email</b></a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/abdulhakim-sefa-846138248">💼 <b>LinkedIn</b></a> &nbsp;|&nbsp;
-  <a href="https://github.com/HakimcHuu">🐙 <b>GitHub</b></a> &nbsp;|&nbsp;
+  <a href="mailto:abdulhakimsefa@gmail.com">📧 <b>Email</b></a>  | 
+  <a href="https://www.linkedin.com/in/abdulhakim-sefa-846138248">💼 <b>LinkedIn</b></a>  | 
+  <a href="https://github.com/HakimcHuu">🐙 <b>GitHub</b></a>  | 
   <a href="https://my-portofolio-wheat-eight.vercel.app/">🌐 <b>Portfolio</b></a>
 </p>
 
-📞 <b>Phone (Ethiopia):</b> +251933718035
+📞 `<b>`Phone (Ethiopia):`</b>` +251933718035
 
 ---
 
