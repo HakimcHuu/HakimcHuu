@@ -255,7 +255,7 @@ If you like my work, please ⭐️ the repo and connect with me on [LinkedIn](ht
   <a href="https://my-portofolio-wheat-eight.vercel.app/">🌐 <b>Portfolio</b></a>
 </p>
 
-📞 `<b>`Phone (Ethiopia):`</b>` +251933718035
+📞 <b>Phone (Ethiopia):</b> +251 933718035
 
 ---
 
