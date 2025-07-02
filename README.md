@@ -201,7 +201,7 @@
 
 ## 📌 Pinned Repositories
 
-You can pin repositories to your GitHub profile for quick access. Here are some of my top projects:
+Here are some of my top projects:
 
 - [Netflix Clone](https://github.com/HakimcHuu/netflix-clone)
 - [Amazon Clone](https://github.com/HakimcHuu/amazone_clone)
@@ -230,7 +230,8 @@ If you like my work, please ⭐️ the repo and connect with me on [LinkedIn](ht
   <li>🏅 <b>Google Digital Marketing</b></li>
   <li>🔒 <b>Cisco Cybersecurity & IT Essentials</b></li>
   <li>💻 <b>Certified JavaScript & Responsive Web Design (2025)</b></li>
-  <li>📱 <b>Android & Data Analysis Fundamentals</b></li>
+  <li>📱 <b>Android,Artificial Intelligence,Programming & Data Analysis Fundamentals (2024)
+</b></li>
 </ul>
 
 ---
