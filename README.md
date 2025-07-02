@@ -52,7 +52,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HakimcHuu&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=HakimcHuu&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=HakimcHuu" height="160"/>
+  <img src="https://github-contributions.vercel.app/api?username=HakimcHuu" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakimcHuu&layout=compact&theme=radical" height="160"/>
 </p>
 
